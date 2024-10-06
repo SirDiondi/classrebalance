@@ -1,0 +1,9 @@
+[
+  {
+    "op": "add",
+    "path": "/11/traits",
+    "value": [ "fleetfooted", "hardy", "smith", "nervous", "nearsighted", "kind" ],
+    "file": "game:config/characterclasses.json",
+    "dependsOn": [ { "modid": "divisionoflabor" } ]
+  }
+]

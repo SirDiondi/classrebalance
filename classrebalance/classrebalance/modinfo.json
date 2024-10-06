@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "classrebalance",
+    "name": "Class Rebalance",
+    "authors": [
+        "Diondi"
+    ],
+    "description": "rebalance classes for Division of Labour",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}
